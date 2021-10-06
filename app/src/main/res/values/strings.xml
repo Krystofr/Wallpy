@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Wallpy</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_wallpapers">Search wallpapers</string>
+    <string name="powered_by">Powered by</string>
+    <string name="pexels">Pexels</string>
+    <string name="cancel">Cancel</string>
+    <string name="share">This wallpaper was shared from Wallpy. Its easy to search and set wallpapers for your device. Download Link</string>
+    <string name="set_wallpaper">Set Wallpaper</string>
+    <string name="the_image_will_be_saved_in_your_gallery">The image will be saved in your Gallery</string>
+</resources>
