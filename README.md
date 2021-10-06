@@ -1,7 +1,7 @@
 # Wallpy
 Simple and beautiful HD wallpaper images displayed in various categories such as; Animals, Scenery, Cars, Nature, Fashion. Powered by the Pexels API.
 
-Technologies Used:
+## Technologies Used:
 
 - MVVM architecture
 - Retrofit
